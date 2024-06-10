@@ -2,14 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bioit.top/</loc>
+    <loc>https://ethan-nicholas-tsai.github.io/about/</loc>
     <lastmod>2020-07-28T19:27:08+08:00</lastmod>
   </url><url>
-    <loc>https://bioit.top/about/</loc>
-    <lastmod>2020-07-28T19:27:08+08:00</lastmod>
+    <loc>https://ethan-nicholas-tsai.github.io/categories/</loc>
   </url><url>
-    <loc>https://bioit.top/categories/</loc>
+    <loc>https://ethan-nicholas-tsai.github.io/</loc>
   </url><url>
-    <loc>https://bioit.top/tags/</loc>
+    <loc>https://ethan-nicholas-tsai.github.io/tags/</loc>
   </url>
 </urlset>
