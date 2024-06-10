@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yichengcai.org/about/</loc>
+    <loc>https://yichengcai.org/tool/about/</loc>
     <lastmod>2020-07-28T19:27:08+08:00</lastmod>
   </url><url>
-    <loc>https://yichengcai.org/categories/</loc>
+    <loc>https://yichengcai.org/tool/categories/</loc>
   </url><url>
-    <loc>https://yichengcai.org/</loc>
+    <loc>https://yichengcai.org/tool/</loc>
   </url><url>
-    <loc>https://yichengcai.org/tags/</loc>
+    <loc>https://yichengcai.org/tool/tags/</loc>
   </url>
 </urlset>

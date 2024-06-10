@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ethan Academic Tool</title>
-    <link>https://yichengcai.org/categories/</link>
+    <link>https://yichengcai.org/tool/categories/</link>
     <description>Recent content in Categories on Ethan Academic Tool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://yichengcai.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://yichengcai.org/tool/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
