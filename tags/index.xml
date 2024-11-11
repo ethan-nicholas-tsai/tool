@@ -4,7 +4,8 @@
     <title>Tags on Ethan Academic Tool</title>
     <link>https://yichengcai.org/tool/tags/</link>
     <description>Recent content in Tags on Ethan Academic Tool</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://yichengcai.org/tool/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <atom:link href="https://yichengcai.org/tool/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
